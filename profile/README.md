@@ -2,7 +2,7 @@
   <h3 align="center">Rysana.com</h3>
 
   <p align="center">
-    Better insights, better results.
+    Your genius meets AI Hyperpower.
   </p>
   
   <hr />
