@@ -12,8 +12,8 @@
     ·
     <a href="https://rysana.com">Website</a>
     ·
-    <a href="https://github.com/lusatai/gcm">GCM</a>
+    <a href="https://github.com/lusatai/lusat">Lusat AI</a>
     ·
-    <a href="https://github.com/lusatai">Lusat</a>
+    <a href="https://github.com/rysanacom/react-shaders">React Shaders</a>
   </p>
 </p>
