@@ -1,9 +1,5 @@
 <p align="center">
   <h3 align="center">Rysana.com</h3>
-
-  <p align="center">
-    Your genius meets AI Hyperpower.
-  </p>
   
   <hr />
 
