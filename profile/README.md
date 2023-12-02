@@ -8,7 +8,7 @@
     ·
     <a href="https://rysana.com">Website</a>
     ·
-    <a href="https://github.com/lusatai/lusat">Lusat AI</a>
+    <a href="https://github.com/rysana-ai/rysana-ai">Rysana AI SDK</a>
     ·
     <a href="https://github.com/rysanacom/react-shaders">React Shaders</a>
   </p>
